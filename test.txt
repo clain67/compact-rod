@@ -8,3 +8,8 @@ how to git
 > git push -u origin master % upload local->github and refresh the main branch
 > git pull origin master  % download local<-gitup and refresh
 > git log % see the log
+> modif in local zone
+
+  git config --global user.email "stephane.louis.clain@gmail.com"
+  git config --global user.name "Clain"
+
