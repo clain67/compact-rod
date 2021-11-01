@@ -1,1 +1,10 @@
 this is a test
+how to git
+> git init %inside the forder we want to use
+> git status % to know what happen
+> git add toto.txt % add toto.txt in the git repository
+> git commit -m "This is my first commit!" % synchronize the files under git 
+> git remote add origin https://github.com/who/name_repository.git % link the local git repository to github
+> git push -u origin master % upload local->github and refresh the main branch
+> git pull origin master  % download local<-gitup and refresh
+> git log % see the log
